@@ -2,7 +2,7 @@
 
 <p>I'm currently learning Web Development. As someone who is passionate about creating engaging and user-friendly apps, I'm always looking for new challenges to improve my skills and knowledge.
 If you have any tips or advice for me then I really appreciate it. </p>
-<p>📫 How to reach me: carlomanid@gmail.com</p>
+
 
 <h2>Languages & Tools</h2>
 <h3 align="center">Frontend</h3>
