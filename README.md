@@ -16,7 +16,7 @@ If you have any tips or advice for me then I really appreciate it. </p>
    <tr>
         <td><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width = 50px height = 50px></td>
         <td><img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" width = 50px height = 50px>
-        <td><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Typescript" width = 50px height = 50px></td>
+        <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" alt="Nextjs" width = 50px height = 50px></td>
         <td><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind" width = 50px height = 50px></td>
   </tr>
 </table>
