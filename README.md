@@ -1,4 +1,4 @@
-<h1>Hello there</h1>
+<h1>Hello there.</h1>
 
 <p>I'm currently learning Web Development. As someone who is passionate about creating engaging and user-friendly apps, I'm always looking for new challenges to improve my skills and knowledge.
 If you have any tips or advice for me then I really appreciate it. </p>
